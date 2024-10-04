@@ -20,9 +20,13 @@ Repository for web development
   - WEBSOCKET: live chats for players in-game with live dice rolling
 
   
-
+### Home page presenting the choice between starting a game and creating a character
 ![Home page presenting the choice between starting a game and creating a character](MockupPhotos/Main.png)
+### First page when making character creation choices
 ![First page when choosing options for a character](MockupPhotos/Options1.png)
+### Additional options added to the character creation page depending on what choices were previously made
 ![Second Page when choosing options for a character](MockupPhotos/Options2.png)
+### Options presented when trying to play a game
 ![Different options when joining or finding a game](MockupPhotos/game1.png)
+### Chat room view for players in game
 ![View of the screen when in a chat room with others](MockupPhotos/game2.png)
