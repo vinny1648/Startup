@@ -8,7 +8,7 @@ Merging conflicts takes a fat minute to figure out so dont forget these steps
 
 ## Notes for midterm questions 
 What does the link element do?
--
+- provides a source to an external document
 What does a div tag do
 - groups elements together
 What is the difference between #title and .grid selector
@@ -21,15 +21,17 @@ How are images displayed using flex
 What does padding do
 - Padding gives space between the edges of the object and covers the background
 What does arrow syntax function declaration do
-- 
+- returns what its pointing to =>
 What does code using map with and array output do
--
+- map is a collection of key-value pairs (dictionary)
+- array is an ordered sequence of any type
 What does getElementByID and addEventListener do
--
+- addEventListener was used to debounce an expecsive calculation
+- 
 What does Javascript do using a # selector
--
+- in a class you can private functions
 What is true about DOM
--
+- the tree thing called document object model
 What is the default display property of the span element
 - a little box at the side of a paragraph
 How would you use the div elements to have a background color of red
@@ -37,7 +39,7 @@ How would you use the div elements to have a background color of red
 How would you display an image with a hyperlink in HTML
 - <image href:...
 In the CSS box model, what is the ordering of the box layers starting at the inside and working out
-  
+- 
 How do you change the color of one word in a sentence
 -
 What is a console.log for loop
@@ -49,15 +51,19 @@ What is the opening HTML tag for a paragraph, ordered list, unordered list, seco
 How do you declare a document type to be HTML
 - <!DOCTYPE html>
 What is valid javascript syntax for if, else, for, while, switch statements
+- if (a === 1) {
+  } else if (b === 2) {
+  else {
+  }
 - 
 What is the correct syntax for creating a javascript object
--
+- new
 Is it possible to add new properties to javascript objects
--
+- yes
 If you want to include JavaScript on an HTML page, which tag do you use
--
+- <script
 What javascript could you use to change words
--
+- something long
 Describe JSON
 - JavaScript object notation
 What does chmod, pwd, cd, ls, vim, nano, mkdir, mv, rm, man, ssh, ps, wget, and sudo do
@@ -76,7 +82,7 @@ What does chmod, pwd, cd, ls, vim, nano, mkdir, mv, rm, man, ssh, ps, wget, and 
 - wget = network downloader
 - sudo = super user do. run a command with elevated priveleges
 Which command creates a remote shell session
--
+- ssh
 What does -la do in the ls command
 - "-a" = list all, even hidden elements
 - "-l" = long listing format
@@ -85,10 +91,10 @@ banana.fruit.bozo.click
 - bozo = second level
 - .click = top level domain
 is a web certificate necessary to use https
--
+- yes
 can a dns A record point to an ip address or another A record
--
+- yes
 port 443, 80, 22 is reserved for which protocol
--
+- secure and encripted https
 What does Promises output
 -
