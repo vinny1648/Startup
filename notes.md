@@ -17,39 +17,39 @@ What is the difference between padding and margin
 - padding inherits things like background color
 - margin is considered external whitespace
 How are images displayed using flex
--
+- they are resized according to the size of the screen and the value given
 What does padding do
--
+- Padding gives space between the edges of the object and covers the background
 What does arrow syntax function declaration do
--
+- 
 What does code using map with and array output do
 -
-What does getElementByID and addEbentListener do
+What does getElementByID and addEventListener do
 -
 What does Javascript do using a # selector
 -
 What is true about DOM
 -
 What is the default display property of the span element
--
+- a little box at the side of a paragraph
 How would you use the div elements to have a background color of red
 - style='background-color: red;'
 How would you display an image with a hyperlink in HTML
--
+- <image href:...
 In the CSS box model, what is the ordering of the box layers starting at the inside and working out
--
+  
 How do you change the color of one word in a sentence
 -
 What is a console.log for loop
--
+- continually display dialog to the console
 How would you use javascript to select an element with the id of "BYU" and change the text to green
 -
 What is the opening HTML tag for a paragraph, ordered list, unordered list, second level heading, first level heading, third level heading
--
+- p, ol, ul, h2, h1, h3
 How do you declare a document type to be HTML
--
+- <!DOCTYPE html>
 What is valid javascript syntax for if, else, for, while, switch statements
--
+- 
 What is the correct syntax for creating a javascript object
 -
 Is it possible to add new properties to javascript objects
